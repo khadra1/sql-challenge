@@ -3,3 +3,6 @@
 
 # Addingg postgres password file
 pg_keys.py
+
+# Adding ipynb _heckpoints
+.ipynb_checkpoints
