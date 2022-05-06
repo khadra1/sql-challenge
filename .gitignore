@@ -1,0 +1,5 @@
+# Adding DS.Store
+.DS_Store
+
+# Addingg postgres password file
+pg_keys.py
